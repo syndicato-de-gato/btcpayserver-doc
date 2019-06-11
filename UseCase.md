@@ -1,10 +1,10 @@
 # BTCPay Server Use Cases
 
-Built with the community in mind, BTCPay server is a feature-rich software with plenty of use-cases that can solve problems for different types of users.
+Built with the community in mind, BTCPay server is a feature-rich self-hosted merchant payment processing application with plenty of use-cases that can solve problems for different types of users.
 
 In this guide, we will show you some of the use-cases of BTCPay, but it is by no means limited to the groups of users we mentioned.
 
-So let's have a look at what you can do with BTCPay and what are the benefits of using it.
+So let's have a look at what you can do with BTCPay and how you can benefit from using it.
 
 ![BTCPayInfographic](img/BTCPayUseCaseInfographic.png)
 
@@ -18,9 +18,9 @@ By choosing BTCPay to process payments, you are:
 * Saving time (easy integration and installation)
 * Protecting yourself from interference in your business (self-sovereignty)
 
-To enjoy most of these benefits, you don't even need to run a BTCPay server yourself, you could just create an account on someone else's server. It will be even easier to set up for free or a fee depending on the host's choice. Downside is that you will rely on the server admin to keep it functional and up-to-date.  
+To enjoy most of these benefits, you don't even need to run a BTCPay server yourself, you could just create an account on someone else's server. It will be even easier to set up for free or a fee depending on the host's choice. The downside is that you will rely on the server admin to keep it functional and up-to-date.  
 
-With the growth of your business it will eventually become important to set-up your own server to be really independent.
+With the growth of your business it will eventually become important to set-up your own server to be truly independent.
 
 Want to give it a try? Here is an up-to-date list of [third-party hosts](ThirdPartyHosting.md).
 
@@ -36,13 +36,13 @@ For brick and mortar stores, BTCPay has a [web-based Point of Sale](https://main
 
 ### Freelancers & Bill Pay
 
-Send anyone a request for payment by sharing a [Payment Request](PaymentRequests.md). Customize the content and appearance of the payment request. With or without expiry, users can pay the request at any time. BTCPay automatically updates the BTC exchange rate when the user pays the payment request when it's convenient for them. 
+Send anyone a request for payment by sharing a [Payment Request](PaymentRequests.md). Customize the content and appearance of the payment request. Choose either with or without expiration, users can pay the request at any time. BTCPay automatically updates the BTC exchange rate when the user pays the payment request when it's convenient for them. 
 
-Merchants or freelancers can use payment requests for bill pay services. Payment requests can even be used to quickly request money from friends. 
+Merchants or freelancers can use payment requests for invoicing. Payment requests can even be used to quickly request money from friends. 
 
 ### Lightning Network payments
 
-No matter the kind of business you run, BTCPay offers a very easy way to get started on the Lightning Network. You can use and experiment with this innovative second-layer solution build on top of Bitcoin by [following this guide](LightningNetwork.md). Both merchants and customers can use BTCPay to receive or make payments off-chain with instant confirmations and neglectable network fees.
+No matter the kind of business you run, BTCPay offers a very easy way to get started on the Lightning Network. You can use and experiment with this innovative second-layer solution which is built directly on top of Bitcoin by [following this guide](LightningNetwork.md). Both merchants and customers can use BTCPay to receive or make payments off-chain with instant confirmations and negligible network fees.
 
 ## Charities and Content Creators (Donations)
 
@@ -56,8 +56,8 @@ Benefits of using BTCPay for accepting donations:
 
 It is particularly important to mention that BTCPay prevents address reuse, as many people has been reusing address for donations in the past. Here is why you SHOULD NOT reuse Bitcoin address:
 
-* Privacy: reusing the same address for donations not only make it incredibly easy to link it to your identity, it also compromises the privacy of your donators and every person that interacts with you
-* Security: by compromising your privacy, address reuse increases your attack surface, as people that want to steal you or harm you would have MANY information about you and your donators
+* Privacy: reusing the same address for donations not only makes it incredibly easy to link it to your identity, it also compromises the privacy of your donators and every person that interacts with you
+* Security: by compromising your privacy, address reuse increases your attack surface, as people that want to steal from you or harm you would have A LOT of sensitive information about you and your donators
 * High fees: fees for a Bitcoin transaction are calculated according to the "size" of a transaction (which has nothing to do with the amount being sent). By reusing addresses, you are building huge transactions involving many inputs, that will cost you a lot in fees when you want to move them
 
 You can read more about address reuse on the [Bitcoin Wiki](https://en.bitcoin.it/wiki/Address_reuse).
@@ -82,7 +82,7 @@ Hosting providers can (and some already did) create easy 1-click BTCPay deployme
 
 ## Developers
 
-BTCPay community is amiable and open-minded. Developers can not only learn a lot and get their name out by working on an open-source project, but also participate in transforming the payment processing business.
+BTCPay community is amicable and open-minded. Developers can not only learn a lot and get their name out by working on an open-source project, but also participate in transforming the payment processing business.
 
 ---
 
